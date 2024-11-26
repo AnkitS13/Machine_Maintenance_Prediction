@@ -23,3 +23,4 @@ Python: Programming language for data processing and model development.
 Scikit-learn: Used to train the machine learning model.
 Streamlit: Framework for creating the interactive dashboard.
 Pandas and NumPy: Libraries for data manipulation and analysis.
+![Screenshot (122)](https://github.com/user-attachments/assets/ce6c84ac-681f-4ca4-9a74-397f8a5c333e)
